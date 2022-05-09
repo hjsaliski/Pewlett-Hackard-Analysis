@@ -7,8 +7,11 @@ The point of this challenge was to take information from multiple sources about 
 --RESULTS--
 
 -One thing to take away from this analysis in deliverable 1 is just how many people are in the retiring group. We did a count of the total number of employees for each position title. 
+
 -Another thing that we made sure of was to filter out any employees that are not still in the company, so our new list and table only contains those that are working employees
+
 -We found a list of employees that fit the requirement for a mentorship program being born during a certain time frame. 
+
 -we created and put all of thes tables together using csv files for easier readability and compiling of the new data we found
 
 --SUMMARY--
